@@ -6,10 +6,23 @@
 - CSS
 - JS
 - AutoHotkey
-- Shell Scripting (Bash)
+- Shell Scripting
+- Vim
+
+## Tools
+- Linux
+- Neovim
+- Alacritty
+- ZSH
 
 ## Social
 
 [<img src='https://github.com/ha7ak3/ha7ak3/blob/master/twitter.png' alt='Twitter' height='40'>](https://twitter.com/RaffRodriiguez)
 [<img src='https://github.com/ha7ak3/ha7ak3/blob/master/youtube.png' alt='YouTube' height='40'>](https://www.youtube.com/@RaffRodriiguez)
 [<img src='https://github.com/ha7ak3/ha7ak3/blob/master/reddit.png' alt='Reddit' height='40'>](https://www.reddit.com/user/ha7ak3)
+
+<center>
+<img src='https://github.com/ha7ak3/ha7ak3/blob/master/airu.gif' />
+<br>
+### < Sic Parvis Magna />
+</center>
