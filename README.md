@@ -23,4 +23,4 @@
 
 ##### < Sic Parvis Magna />
 
-<img src='https://github.com/ha7ak3/ha7ak3/blob/master/airu.gif' width=32 height=32 />
+<img src='https://github.com/ha7ak3/ha7ak3/blob/master/felyne.png' />
