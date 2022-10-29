@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Raff
+# Hi there 👋, I'm Raff
 
 Skills: HTML / CSS / JS / Autohotkey / Shell Scripts (Bash)
 
