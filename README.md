@@ -21,6 +21,6 @@
 [<img src='https://github.com/ha7ak3/ha7ak3/blob/master/youtube.png' alt='YouTube' height='40'>](https://www.youtube.com/@RaffRodriiguez)
 [<img src='https://github.com/ha7ak3/ha7ak3/blob/master/reddit.png' alt='Reddit' height='40'>](https://www.reddit.com/user/ha7ak3)
 
-##### < Sic Parvis Magna />
+* < Sic Parvis Magna /> *
 
-<img src='https://github.com/ha7ak3/ha7ak3/blob/master/felyne.png' />
+<img src='https://github.com/ha7ak3/ha7ak3/blob/master/felyne.png' alt='Hi-nya' />
