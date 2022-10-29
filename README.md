@@ -1,4 +1,4 @@
-<img src="https://github.com/ha7ak3/ha7ak3/blob/master/gh_banner.png?raw=true" />
+<img src="gh_banner.png" />
 
 ## Skills
 
@@ -17,10 +17,10 @@
 
 ## Social
 
-[<img src='https://github.com/ha7ak3/ha7ak3/blob/master/twitter.png' alt='Twitter' height='40'>](https://twitter.com/RaffRodriiguez)
-[<img src='https://github.com/ha7ak3/ha7ak3/blob/master/youtube.png' alt='YouTube' height='40'>](https://www.youtube.com/@RaffRodriiguez)
-[<img src='https://github.com/ha7ak3/ha7ak3/blob/master/reddit.png' alt='Reddit' height='40'>](https://www.reddit.com/user/ha7ak3)
+[<img src='twitter.png' alt='Twitter' height='40'>](https://twitter.com/RaffRodriiguez)
+[<img src='youtube.png' alt='YouTube' height='40'>](https://www.youtube.com/@RaffRodriiguez)
+[<img src='reddit.png' alt='Reddit' height='40'>](https://www.reddit.com/user/ha7ak3)
 
-* < Sic Parvis Magna /> *
+<code> < Sic Parvis Magna /> </code>
 
-<img src='https://github.com/ha7ak3/ha7ak3/blob/master/felyne.png' alt='Hi-nya' />
+<img src='felyne.png' alt='Hi-nya' />
