@@ -5,14 +5,13 @@
 - HTML
 - CSS
 - JS
-- AutoHotkey
-- Shell Scripting
+- Bash (Scripts)
 - Vim
 
 ## Tools
 - Linux
 - Neovim
-- Alacritty
+- Kitty
 - ZSH
 
 ## Social
